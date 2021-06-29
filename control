@@ -1,0 +1,9 @@
+Package: com.ginsu.invisiblewidget
+Name: InvisibleWidget
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: A real invisible widget.
+Maintainer: Ginsu
+Author: Ginsu
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
